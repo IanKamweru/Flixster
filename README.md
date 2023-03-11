@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p align="center"><img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/></p>
+<p align="center"><img src='walkthrough-land.gif' title='Video Walkthrough Landscape' width='' alt='Video Walkthrough Landscape'/></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **LiceCap**. 
